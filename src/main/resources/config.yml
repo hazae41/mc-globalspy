@@ -1,0 +1,10 @@
+logging: true
+# if you want to log each chatmessage/command in a file
+
+format: "&b(%server%) %player%: %message%"
+
+bypass-permission: "nspy.bypass"
+# users with this permission won't be spied
+
+receive-permission: "nspy.receive"
+# users with this permission will be able to spy

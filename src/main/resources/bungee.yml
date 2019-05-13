@@ -1,0 +1,4 @@
+name: GlobalSpy
+version: @version@
+main: hazae41.minecraft.globalspy.Plugin
+author: hazae41
